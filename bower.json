@@ -1,6 +1,6 @@
 {
     "name": "binarta.checkpoint.recaptcha.angular",
-    "main": "./src/main/js/checkpoint.recaptcha.js",
+    "main": "./src/checkpoint.recaptcha.js",
     "dependencies": {
         "angular": "1.2.5"
     },
