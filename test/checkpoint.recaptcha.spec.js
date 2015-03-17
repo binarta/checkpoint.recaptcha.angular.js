@@ -1,6 +1,8 @@
 describe('checkpoint.recaptcha.js', function() {
     var scope;
 
+    angular.module('ui.bootstrap.modal', []);
+
     beforeEach(module('config'));
     beforeEach(module('notifications'));
     beforeEach(module('vcRecaptcha'));
