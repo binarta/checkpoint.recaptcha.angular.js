@@ -1,0 +1,6 @@
+{
+  "default": {
+    "checkpoint.recaptcha":"bower_components/binarta.checkpoint.recaptcha.angular/src/checkpoint.recaptcha.js",
+    "angular.recaptcha":"bower_components/angular-recaptcha/release/angular-recaptcha.min.js"
+  }
+}
