@@ -8,7 +8,7 @@
         "binarta.angularx": "0.*.*",
         "binarta.checkpoint.angular":"0.*.*",
         "binarta.notifications.angular": "1.*.*",
-        "angular-recaptcha": "0.0.*"
+        "binarta.recaptcha.angular": "0.*.*"
     },
     "devDependencies": {
         "angular-mocks": "1.*.*",

@@ -1,4 +1,4 @@
-angular.module('vcRecaptcha', [])
+angular.module('bin.recaptcha', [])
     .factory('vcRecaptchaServiceSpy', RecaptchaServiceSpyFactory)
     .service('vcRecaptchaService', RecaptchaServiceFactory);
 

@@ -1,4 +1,4 @@
-angular.module('checkpoint.recaptcha', ['checkpoint', 'notifications', 'vcRecaptcha'])
+angular.module('checkpoint.recaptcha', ['checkpoint', 'notifications', 'bin.recaptcha'])
     .run(['registrationRequestMessageMapperRegistry', function (registrationRequestMessageMapperRegistry) {
         registrationRequestMessageMapperRegistry.add(function(scope) {
             return function(it) {
