@@ -6,7 +6,6 @@
     ],
     "dependencies": {
         "binarta.angularx": "0.*.*",
-        "binarta.checkpoint.angular":"0.*.*",
         "binarta.notifications.angular": "1.*.*",
         "binarta.recaptcha.angular": "0.*.*"
     },
